@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 QA Enthusiast | 🎨 UI/UX Explorer |  🎓 CS Undergraduate | 🎮 FPS Gamer</p>
+<p align="left">🚀 Learning QA | 🎨 UI/UX Explorer |  🎓 CS Undergraduate | 🎮 FPS Gamer</p>
 
 ###
 
