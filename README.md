@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚡ Fun Fact: I spend more time debugging than coding. <br>💡When I'm not debugging, I'm playing with colors and designing random stuff.</p>
+<p align="left">⚡ Fun Fact: I spend more time Testing than coding. <br>💡When I'm not debugging, I'm playing with colors and designing random stuff.</p>
 
 ###
 
