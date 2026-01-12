@@ -1,36 +1,44 @@
-<h1 align="left">👋Hi! I'm Ronish Shrestha.</h1>
+# 👋 Hi! I'm Ronish Shrestha
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/-Learning%20QA-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/-CS%20Undergraduate-blue?style=flat-square" />
+</p>
 
-<p align="left">🚀 Learning QA |  🎓 CS Undergraduate | </p>
+### 🚀 About Me
+I am a passionate Computer Science student focused on **Quality Assurance (QA)** and **Java Development**. I enjoy practicing daily coding challenges and exploring automated testing tools.
 
-###
+- 🎓 Currently in my **7th Semester**.
+- 🛠️ Building a daily habit of pushing Java code to this repo.
+- 📬 Connect with me: **ronish.shrestha2061@gmail.com**
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ Tech Stack & Tools
 
+**Languages & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
+</p>
 
-###
+**QA & Testing Tools**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
+</p>
 
-<h4 align="left">Connect with me : ronish.shrestha2061@gmail.com</h4>
+**Design & Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,html,css" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-</div>
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=RonishS&show_icons=true&theme=tokyonight" alt="Ronish's GitHub stats" />
+</p>
 
-###
+---
+
