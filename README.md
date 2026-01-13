@@ -39,16 +39,9 @@ I enjoy practicing **daily coding challenges** and exploring **automated testing
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronishshrestha&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronishshrestha&hide=html,css&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ## 📌 Fun Fact
-I believe **quality comes first**, whether in code or life. Every bug is a learning opportunity! 🐛💡
+💻 Fun Fact: I have a habit of finding bugs that aren’t even there… just to challenge myself.
 
 ---
 
