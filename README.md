@@ -9,10 +9,10 @@
 ---
 
 ## 🚀 About Me
-I am a passionate **Computer Science student** specializing in **Quality Assurance (QA)** and **Java Development**.  
-I enjoy practicing **daily coding challenges** and exploring **automated testing tools**.
+I am a **Computer Science student** specializing in **Quality Assurance (QA)** and **Java Development**.  
+I enjoy practicing **daily coding challenges** and exploring **Automated testing tools**.
 
-- 🎓 Currently in my **7th Semester**
+- 🎓 Computer Science Undergrad passionate about Technology 
 - 💻 Daily practice: Pushing **Java code** to GitHub
 - 📬 Connect with me: [ronish.shrestha2061@gmail.com](mailto:ronish.shrestha2061@gmail.com)
 
