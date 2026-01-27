@@ -98,11 +98,7 @@ public class Ronish {
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <b>"In a world full of bugs, be the debugger."</b>
-</p>
-
 ---
 
-🔥 **Thanks for stopping by!** If you like breaking things *the right way*, you’re in the right place.
+
 
