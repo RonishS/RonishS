@@ -30,10 +30,10 @@ public class Ronish {
 
 * 🎓 Computer Science Undergraduate (currently speedrunning life)
 * 🧪 QA Enthusiast who *tests before trusting*
-* ☕ Powered by logic, caffeine, and Stack Overflow
+* ☕ Powered by logic, & caffeine
 * 🐞 I don’t find bugs… **bugs find me**
 
-📬 **Summon me via email:** `ronish.shrestha2061@gmail.com`
+📬 **Connect With me:** `ronish.shrestha2061@gmail.com`
 
 ---
 
@@ -45,7 +45,7 @@ public class Ronish {
   <img src="https://skillicons.dev/icons?i=java,python,c,mysql" height="45" />
 </p>
 
-### 🧪 QA & TESTING ARSENAL
+### 🧪 QA & TESTING 
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="45" />
@@ -90,15 +90,7 @@ public class Ronish {
 
 ---
 
-## ⚠️ WARNING
 
-Entering this GitHub profile may result in:
-
-* Sudden motivation to code
-* Increased QA curiosity
-* Urge to automate random things
-
-Proceed responsibly 😎
 
 ---
 
