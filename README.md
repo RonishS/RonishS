@@ -84,21 +84,4 @@ public class Ronish {
 
 ---
 
-## 🐞 FUN FACT (100% TRUE)
-
-> I sometimes fix bugs **before they exist** just to stay ahead of them.
-
----
-
-
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-</p>
-
----
-
-
 
