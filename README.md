@@ -1,13 +1,7 @@
-# 👋 HEY THERE, INTERNET TRAVELER! I'M **RONISH SHRESTHA** 🚀
+# 👋 I'M **RONISH SHRESTHA** 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=QA+Explorer+%F0%9F%94%8D;Java+Code+Summoner+%E2%9A%A1;Bug+Hunter+%F0%9F%90%9B;CS+Undergrad+on+a+Mission+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-DEBUGGING%20LIFE-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/COFFEE-REQUIRED-brown?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BUGS-FEARED-red?style=for-the-badge" />
 </p>
 
 ---
